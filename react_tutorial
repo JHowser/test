@@ -1,0 +1,8 @@
+const Header = () => {
+	
+}
+	return (
+		<main> 
+			<p>Text till huvudsakliga texten</p>
+		</main>
+	)
